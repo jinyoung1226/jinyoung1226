@@ -3,9 +3,9 @@
 
 
 ## Hi there 👋 
-- 🎓 Major: e-business & AI Convergence  
-- 🏫 University: Ajou University
-- 📪 Contact: jinyoung1226@ajou.ac.kr
+- Major: e-business & AI Convergence  
+- University: Ajou University
+- Contact: jinyoung1226@ajou.ac.kr
 
 #### 📜 Certificate
 - 2023.02: Computer Specialist in Spreadsheet & Database Level 2

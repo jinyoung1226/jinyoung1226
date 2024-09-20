@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Jinyoung's%20Page&height=200&fontSize=60)
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Jinyoung's%20Page&height=220&fontSize=60)
 
 
 

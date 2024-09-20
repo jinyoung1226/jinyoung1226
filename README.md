@@ -2,7 +2,9 @@
 
 ## Hi there 👋 I'm Jinyoung
 
-I'm currently majoring in **E-business** and pursuing a double major in **AI Convergence** at **Ajou University**.
+- 🎓 Major: E-business  
+- 🧑‍💻 Double Major: AI Convergence  
+- 🏫 University: Ajou University
 
 
 

@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=slice&color=4682B4&fontColor=FFFFFF&text=Jinyoung's%20Page&height=130&fontSize=50&rotate=20)
+![transparent](https://capsule-render.vercel.app/api?type=slice&color=4682B4&fontColor=FFFFFF&text=Jinyoung's%20Page&height=100&fontSize=50&rotate=10)
 
 
 ## Hi there 👋 

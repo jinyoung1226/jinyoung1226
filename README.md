@@ -6,6 +6,9 @@
 - 🎓 Major: e-business & AI Convergence  
 - 🏫 University: Ajou University
 
+#### Certificate
+* ㅁㄴㅇㅁㄴㅇㄴㅁㅇ
+
 
 
 

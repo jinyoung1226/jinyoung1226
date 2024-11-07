@@ -15,7 +15,7 @@
 
 #### 🏅 Awards
 - 2020.12: 2nd National Sports Data Utilization Competition (2020), Excellence Award in the Idea Category
-- 2023.11: 31st Business School Academic Festival 'B-cube' (2023), Grand Prize
+- 2024.11.07: 32st Business School Academic Festival 'B-cube' (2024), Grand Prize
 
 #### 🔬 Research
 - 2024.09 ~ : National Research Foundation of Korea / Student Researcher in Data Analysis for 'Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics'

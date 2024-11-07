@@ -15,7 +15,8 @@
 
 #### 🏅 Awards
 - 2020.12: 2nd National Sports Data Utilization Competition (2020), Excellence Award in the Idea Category
-- 2024.11.07: 32st Business School Academic Festival 'B-cube' (2024), Grand Prize
+- 2024.11.07: Grand Prize, 32st Business School Academic Festival 'B-cube' (2024)
+- 2024.11.05: Excellence Award Korea Tourism Organization * Kakao '2024 Tourism Data Utilization Contest'
 
 #### 🔬 Research
 - 2024.09 ~ : National Research Foundation of Korea / Student Researcher in Data Analysis for 'Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics'
@@ -37,7 +38,7 @@
 - 2023.09 ~ 2023.12: Development of a Blockchain-Based Real Estate Token Securities (STO) Issuance and Trading System
 - 2023.09 ~ 2023.12: Analysis and Planning of a B2G-Based Walking School Bus Activation Service
 - 2024.06 ~ 2024.10: Development of a Drive Course Integration App (Drivel) Platform
-- 2024.09 ~ : Development of a Website for the 'B-cube' 
+- 2024.08 ~ 2024.11 : Development of a Website for the 'B-cube' 
 - 2024.07 ~ : Development of an App Platform for Enhancing the Walking School Bus Service
 
 

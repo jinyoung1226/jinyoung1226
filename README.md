@@ -59,7 +59,6 @@
  <br>
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
- ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">

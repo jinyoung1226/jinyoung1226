@@ -60,6 +60,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Chroma DB-512BD4?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white"/>
 </div>
 
 <!-- Infra / DevOps -->

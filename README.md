@@ -74,6 +74,21 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
 
+---
+
+<div align="center">
+  <p>
+    <a href="https://github.com/jinyoung1226/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=jinyoung1226&theme=tokyonight" alt="minseon yu's GitHub stats" />
+    </a>
+  </p>
+  <p>
+    <a href="https://myhits.vercel.app">
+      <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=medium" alt="hits" />
+    </a>
+  </p>
+</div>
+
 
 
 

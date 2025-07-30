@@ -78,18 +78,23 @@
 ---
 
 <div align="center">
-  <p>
-    <a href="https://github.com/jinyoung1226/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jinyoung1226&theme=tokyonight" alt="minseon yu's GitHub stats" />
-    </a>
-  </p>
-  <p>
-    <a href="https://myhits.vercel.app">
-      <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=medium" alt="hits" />
-    </a>
-  </p>
+  <!-- 백준 티어 -->
+  <a href="https://solved.ac/alex2001/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alex2001" alt="Solved.ac 프로필" height="120" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub Stats -->
+  <a href="https://github.com/jinyoung1226/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jinyoung1226&theme=tokyonight" alt="jinyoung1226's GitHub stats" height="120" />
+  </a>
 </div>
 
+<!-- 하단 hits: 위쪽과 간격 추가 -->
+<p align="center" style="margin-top: 20px;">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=medium" alt="hits" />
+  </a>
+</p>
 
 
 

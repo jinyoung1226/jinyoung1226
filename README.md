@@ -8,7 +8,7 @@
 - 경기신용보증재단 디지털금융부 인턴 (2025.07 ~ 2025.12)
 
 ## ⌨️ Projects
-- [부동산 토큰 증권(STO) 발행 및 거래 시스템 개발]([https://github.com/jinyoung1226/BlockChain_STO](https://github.com/jinyoung1226/STO_system)) (2023.09 ~ 2023.12)  
+- [부동산 토큰 증권(STO) 발행 및 거래 시스템 개발](https://github.com/jinyoung1226/STO_system) (2023.09 ~ 2023.12)  
 - [드라이브 코스 통합 앱(Drivel) 서비스 개발](https://github.com/jinyoung1226/Drivel) (2024.05 ~ 2024.10)
 - B-cube 소학회 웹 서비스 개발 (2024.08 ~ 2025.05)
 - 워킹스쿨버스 앱(동행) 서비스 개발 (2024.07 ~ 2024.12)

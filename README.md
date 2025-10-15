@@ -34,8 +34,6 @@
 ## ⚒️ Tech Stack
 <!-- Frontend -->
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; gap:8px; margin-bottom: 24px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -44,7 +42,6 @@
 <!-- Backend -->
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; gap:8px; margin-bottom: 24px;">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -61,7 +58,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Chroma DB-512BD4?style=for-the-badge&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PaddlePaddle-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white"/>
 </div>
 
 <!-- Infra / DevOps -->

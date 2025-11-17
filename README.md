@@ -26,7 +26,6 @@
 - IT 연합동아리 잇타(It's Time) 모캠프 서비스 개발 대상(2025.07.12)
 
 ## 📜 Certificate
-- OPIc IH (2023.05)
 - Advanced Data Analytics Semi-Professional (2023.08)
 - SQL Developer (2023.12)
 

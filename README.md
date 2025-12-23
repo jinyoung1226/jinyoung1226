@@ -2,33 +2,35 @@
 
 
 ## ✋ 임진영 Jin-Young Im
-- 아주대학교 e-비즈니스학사 (2020.03 ~ 2026.02)
-- 아주대학교 인공지능융합학사 (2020.03 ~ 2026.02)
-- 중소기업의 사이버 보안 회복력과 사회경제 시스템 다이내믹스 / 한국연구재단, 데이터 분석 학부 연구원 (2024.09 ~ 2024.11)
-- 경기신용보증재단 디지털금융부 인턴 (2025.07 ~ 2025.12)
-- SK AX AI Leader Academy(SKALA) Cloud 1th (2025.12 ~ )
+- 2020.03 ~ 2026.02 : 아주대학교 e-비즈니스학사
+- 2020.03 ~ 2026.02 : 아주대학교 인공지능융합학사
+- 2024.09 ~ 2024.11 : 중소기업의 사이버 보안 회복력과 사회경제 시스템 다이내믹스 / 한국연구재단, 데이터 분석 학부 연구원
+- 2025.07 ~ 2025.12 : 경기신용보증재단 디지털금융부 인턴
+- 2025.12 ~ : SK AX AI Leader Academy(SKALA) Cloud 1th
+
 
 ## ⌨️ Projects
-- [부동산 토큰 증권(STO) 발행 및 거래 시스템 개발](https://github.com/jinyoung1226/STO_system) (2023.09 ~ 2023.12)  
-- [드라이브 코스 통합 앱(Drivel) 서비스 개발](https://github.com/jinyoung1226/Drivel) (2024.05 ~ 2024.10)
-- [B-cube 소학회 웹 서비스 개발](https://github.com/jinyoung1226/b-cube-backend) (2024.08 ~ 2025.05)
-- [워킹스쿨버스 앱(동행) 서비스 개발](https://github.com/jinyoung1226/donghang) (2024.01 ~ 2024.12)
-- [야구 직관 기록 앱(BallFan) 서비스 개발](https://github.com/jinyoung1226/BallFan) (2025.02 ~ 2025.07)
-- [모여서 캠키고 프로젝트(모캠프) 웹 서비스 개발](https://github.com/Mocamp-Official) (2025.03 ~ 2025.07)
+- 2023.09 ~ 2023.12 : [부동산 토큰 증권(STO) 발행 및 거래 시스템 개발](https://github.com/jinyoung1226/STO_system) 
+- 2024.05 ~ 2024.10 : [드라이브 코스 통합 앱(Drivel) 서비스 개발](https://github.com/jinyoung1226/Drivel)
+- 2024.08 ~ 2025.05 : [B-cube 소학회 웹 서비스 개발](https://github.com/jinyoung1226/b-cube-backend)
+- 2024.01 ~ 2024.12 : [워킹스쿨버스 앱(동행) 서비스 개발](https://github.com/jinyoung1226/donghang)
+- 2025.02 ~ 2025.07 : [야구 직관 기록 앱(BallFan) 서비스 개발](https://github.com/jinyoung1226/BallFan)
+- 2025.03 ~ 2025.07 : [모여서 캠키고 프로젝트(모캠프) 웹 서비스 개발](https://github.com/Mocamp-Official)
 
 
 ## 🏅 Awards
-- 제2회 전국 스포츠 데이터 활용 경진대회 아이디어 부문 우수상 (2020.12.27)
-- 한국관광공사 * 카카오 '2024 관광 데이터 활용 공모전' 개발 부문 우수상 (2024.11.05)
-- 제 32회 경영대학 학술제 'B-cube 소학회 웹사이트 개발' 대상 (2024.11.07)
-- 제 7회 e-비즈니스학과 해커톤 경진대회 최우수상 (2024.11.10)
-- 아주대학교 파란학기제 우수상 (2024.12.05)
-- 아주대학교 SOFTCON 개발부문 캡스톤디자인 우수상 (2025.06.11)
-- IT 연합동아리 잇타(It's Time) 모캠프 서비스 개발 대상(2025.07.12)
+- 2020.12.27 : 제2회 전국 스포츠 데이터 활용 경진대회 아이디어 부문 우수상
+- 2024.11.05 : 한국관광공사 × 카카오 ‘2024 관광 데이터 활용 공모전’ 개발 부문 우수상
+- 2024.11.07 : 제32회 경영대학 학술제 ‘B-cube 소학회 웹사이트 개발’ 대상
+- 2024.11.10 : 제7회 e-비즈니스학과 해커톤 경진대회 최우수상
+- 2024.12.05 : 아주대학교 파란학기제 우수상
+- 2025.06.11 : 아주대학교 SOFTCON 개발부문 캡스톤디자인 우수상
+- 2025.07.12 : IT 연합동아리 잇타(It’s Time) 모캠프 서비스 개발 대상
 
+  
 ## 📜 Certificate
-- Advanced Data Analytics Semi-Professional (2023.08)
-- SQL Developer (2023.12)
+- 2023.08 : Advanced Data Analytics Semi-Professional
+- 2023.12 : SQL Developer
 
 
 ## ⚒️ Tech Stack

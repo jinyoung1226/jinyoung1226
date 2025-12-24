@@ -31,6 +31,7 @@
 ## 📜 Certificate
 - 2023.08 : Advanced Data Analytics Semi-Professional
 - 2023.12 : SQL Developer
+- 2025.12 : 정보처리기사
 
 
 ## ⚒️ Tech Stack
